@@ -6,7 +6,7 @@ public class builtInFunctions {
         System.out.println(str.charAt(5));
         System.out.println(str.charAt(6));
 //        System.out.println(str.charAt(15));
-//        System.out.println(str.charAt(2));
+        System.out.println(str.charAt(2));
         System.out.println(str.length());
     }
 }

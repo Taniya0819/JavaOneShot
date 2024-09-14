@@ -17,3 +17,6 @@ public class input {
         System.out.println(empty.length());
     }
 }
+
+
+// Strings are immutable i.e cannot be changed
